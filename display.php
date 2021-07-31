@@ -12,6 +12,6 @@ $last_name = $_GET['last_name'];
     <body>
         <h2>Welcome</h2>
         <p>First Name: <?php echo $first_name; ?></p>
-        <p>Last Name: <?php echo $last_name; ?></p>
+        <p>Last Name: <?php echo $last_name; ?></p> 
     </body>
 </html>
